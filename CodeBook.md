@@ -1,3 +1,4 @@
+###Introduction
 Variable names have been kept consistent with the names from the Human Activity 
 Recognition Using Smartphones data set, but have been prefixed with "average_" 
 to indicate that measurement is a mean of all measurements from a given subject_number
@@ -5,12 +6,12 @@ to indicate that measurement is a mean of all measurements from a given subject_
 
 Please reference features_info.txt in the original dataset for more detail on each variable. 
 
-
+###Data Dictionary
 subject_number
 	Factor of 1 to 30 labeling participant number
 activity
 	Factor of:
-		1 WALKING
+		1 WALKING  
 		2 WALKING_UPSTAIRS
 		3 WALKING_DOWNSTAIRS
 		4 SITTING	
