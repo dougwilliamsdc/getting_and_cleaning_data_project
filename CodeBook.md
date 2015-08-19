@@ -7,6 +7,7 @@ to indicate that measurement is a mean of all measurements from a given subject_
 Please reference features_info.txt in the original dataset for more detail on each variable.   
   
 ###Data Dictionary  
+
 subject_number  
     Factor of 1 to 30 labeling participant number  
 activity  
